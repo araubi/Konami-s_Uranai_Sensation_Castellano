@@ -1,0 +1,385 @@
+# Omikuji: OFFSET|texto. Caja de 3 líneas de 18 letras (corte automático por palabras). {N} = nombre, {o} = o/a según el sexo.
+76A00|Tu vida florece como un cerezo en flor.
+76A20|¡{N}, qué suerte! ¡Todo te sale bien!
+76A40|Rebosas energía: ¡éxito en todo!
+76A60|Brillas como un girasol en verano.
+76A80|¡Un futuro radiante! ¡Vive bien el hoy!
+76AA0|Suerte sin nubes. ¡Sigue igual!
+76AC0|Calma, como flores junto al río.
+76AE0|Si te portas bien, algo bueno vendrá.
+76B00|Sin prisas. Mejor dar un rodeo.
+76B20|Espera tu ocasión con calma.
+76B40|Obra con bondad y verás camino.
+76B60|Pasó la tormenta: ¡a actuar!
+76B80|¡O ahora o nunca! ¡Date prisa!
+76BA0|¡Ojo! Tu vida rosa tiene espinas.
+76BC0|Con buen corazón los dioses ayudan.
+76BE0|Suerte fresquita, jersey de otoño.
+76C00|Lucha y ábrete tú el camino.
+76C20|Llega la tormenta. ¡Quiet{o}!
+76C40|Sopla fuerte. ¡Toca aguantar!
+76C60|Mañana será otro día. ¡Ánimo!
+76C80|Aguanta lo que no se aguanta.
+76CA0|Estás helad{o}. Paciencia.
+76CC0|Vivir es la vida. ¡Así es!
+76CE0|Mente nublada. ¡Ojo con lo que haces!
+76D00|Se cumple pronto. ¡Gran alegría!
+76D20|¡Todo saldrá como {N} quiere!
+76D40|¡Deseo cumplido! ¡Qué alegría!
+76D60|¡Pídeselo a una estrella!
+76D80|Todo saldrá como deseas.
+76DA0|¡Sé honesto y vendrá la suerte!
+76DC0|Deseo cumplido... ¡casi!
+76DE0|¡Lo importante es creérselo!
+76E00|Un último esfuerzo y se cumplirá.
+76E20|¡Bien está lo que bien acaba!
+76E40|Sin esfuerzo no llega al cielo.
+76E60|Menos dudar y más actuar.
+76E80|Se cumplirá. ¡Pero esfuérzate!
+76EA0|No apuntes tan alto. ¡Modestia!
+76EC0|Si no pides lo imposible, saldrá.
+76EE0|No esperes mucho. ¡Paciencia!
+76F00|Soñar es gratis. ¡Sueña mucho!
+76F20|Lo que estaba cerca se aleja.
+76F40|¡Nadie te ayudará! Pides demasiado.
+76F60|Pídeselo a una estrella fugaz.
+76F80|Puede salir al revés.
+76FA0|No se cumple. Mejor olvídalo.
+76FC0|¡Tira tus sueños a la basura!
+76FE0|Ahora, aguantar. ¡Y no moverse!
+77000|¡Está ahí delante! ¿No lo ves?
+77020|Esperan a {N}. ¡Te esperan a ti!
+77040|¡Ya está muy cerca de {N}!
+77060|¡Está detrás de ti! Mira ♥
+77080|¡Llega pronto! Espera tumbado.
+770A0|¡Ya está aquí y no lo ves!
+770C0|Está muy cerca. ¡Háblale! ♥
+770E0|Verás a tu profe favorito.
+77100|¡Ánimo! Las prisas, malas.
+77120|Confía en que vendrá y espera.
+77140|En días fríos no vendrá.
+77160|Espera con calma. Ya vendrá.
+77180|Llegará tarde. Espérale.
+771A0|Hallarás el amor en una boda.
+771C0|¡Muévete! Habrá buenas noticias.
+771E0|¡Eh! ¡Te has equivocado de sitio!
+77200|Con la güija verás a tus abuelos.
+77220|Viene, pero no os encontráis.
+77240|No aparece. ¿Qué habrá pasado?
+77260|Verás a la muerte en un coche.
+77280|Ni noticias ni nada. ¡Imposible!
+772A0|¡No viene! ¡Buaaa, no me dejes!
+772C0|¡Vendrá mucha gente no invitada!
+772E0|Vino ayer y {N} ni lo notó.
+77300|Tranquilidad. ¡Aparecerá pronto!
+77320|¿{N} no pierde nada? ¡Qué suerte!
+77340|¡Te regalarán uno igual!
+77360|¡Saldrá donde menos lo esperas!
+77380|Quiet{o}. Ya aparecerá solo.
+773A0|¿Ordenas tu cuarto? ¡Saldrá!
+773C0|Cuando lo olvides, ¡zas!, saldrá.
+773E0|Seguro que está muy cerca.
+77400|¡Te lo dejaste en otro sitio!
+77420|Quien no busca, no encuentra.
+77440|¡Culpa de {N}! Resígnate.
+77460|Saldrá cuando ya no lo esperes.
+77480|¡Está cerca y no lo ves!
+774A0|Perdiste algo sin saberlo. ¿Qué?
+774C0|¡Búscalo ya! Luego no saldrá.
+774E0|Ni olvidándolo saldrá.
+77500|¡Busca y busca, y nada de nada!
+77520|Puede aparecer, pero roto.
+77540|¡Si lo tienes en la mano!
+77560|¡Buscándolo perderás otra cosa!
+77580|¡Búscalo antes de olvidarlo!
+775A0|¡Lo estás pisando ahora mismo!
+775C0|¡Te compras otro y listo!
+775E0|¡Ni sabes que lo perdiste!
+77600|¡Hallarás el amor de viaje!
+77620|¡{N} tendrá dos lunas de miel!
+77640|Un encuentro te cambiará. ¡Vamos!
+77660|Hallas dinero de viaje. ¡Gracias!
+77680|¡Con dinero, hasta al infierno!
+776A0|¡A viajar! Mejor tú sol{o}.
+776C0|¡Cabeza alta! Pero no tropieces.
+776E0|Un buen bocata te alegra el viaje.
+77700|¡Sal todo lo que puedas!
+77720|Pasarán mil cosas. ¡Será genial!
+77740|Mejor de a dos. ¡Gasta suelas!
+77760|¡Evita el coche! En barco, sí.
+77780|¡Buen día para viajar! ¡Bien!
+777A0|Viajes de trabajo, buena suerte.
+777C0|Bien, pero ojo con el tiempo.
+777E0|De viaje, cuida tu salud.
+77800|¡Gran paisaje! Pero llueve.
+77820|Lloverá. Mejor viajar a cubierto.
+77840|¡Lloverá! Habrá que resguardarse.
+77860|¡Bonita foto, con un extraño!
+77880|¡No gastes ni pierdas la cartera!
+778A0|¿Viaje desastroso? ¡No vayas!
+778C0|Nada que decir. Quédate en casa.
+778E0|Mejor en casa. Di que no a planes.
+77900|Todo lo que estudies se te quedará.
+77920|¡En racha! Hasta un examen sorpresa.
+77940|¡Mente brillante! Notas de matrícula.
+77960|¿El estudio era tan divertido? ¿Eh?
+77980|{N}, ¡mucho ánimo! ♥
+779A0|¡Ánimo, {N}! ¡Ya amanece!
+779C0|Un amigo listo te hará rendir más.
+779E0|Ponle empeño al inglés y la lengua.
+77A00|¡No dejes para mañana lo de hoy!
+77A20|Tu esfuerzo de hoy es tu mañana.
+77A40|¡No descuides los idiomas!
+77A60|¡Una sola palabra decide tu suerte!
+77A80|¡Qué raro, estás lúcid{o}! ¡Aprovecha!
+77AA0|Buen momento para las artes. ¡Ánimo!
+77AC0|Aunque sea poco, estudia cada día.
+77AE0|Solo te queda rezar... ¡Snif!
+77B00|Un examen tipo test... A los dados.
+77B20|Mmm, desde ahora... Mmm, ahora...
+77B40|¡Vamos, {N}! ¡Usa tu telepatía!
+77B60|Si sale bien, de chiripa.
+77B80|¡Agobiarse no sirve! Vale el día a día.
+77BA0|¿Mmm? Je, je... ¡soy un genio!
+77BC0|Ya va siendo hora de buscar trabajo.
+77BE0|Suspendes, resbalas, caes... ¡Uy!
+77C00|No habrá pelea. ¿Será tu bondad?
+77C20|Un corazón justo gana sin problemas.
+77C40|Quien da primero da dos veces.
+77C60|¡Deseo cumplido! Todo se arregla.
+77C80|¡No te confíes! Siempre hay trampas.
+77CA0|Si eres tenaz, ganarás.
+77CC0|Cediendo los dos, todo se arregla.
+77CE0|Aunque ganes, sabe cuándo retirarte.
+77D00|¡Uf, menos mal! Todo arreglado.
+77D20|Si esperas, verás la solución.
+77D40|No te obsesiones con ganar. ¡Grandeza!
+77D60|Si te pegan, pon la otra mejilla.
+77D80|El otro cede. ¡Muchas gracias!
+77DA0|Ganarás sin proponértelo.
+77DC0|No quieras ganar. Se arreglará solo.
+77DE0|Lo siento, pero has perdido.
+77E00|Se complicará. ¡Pide perdón pronto!
+77E20|¡Pelear es perder el tiempo!
+77E40|La culpa es toda tuya. ¡Socorro!
+77E60|Tus caprichos te crearán enemigos.
+77E80|Se acabó. Ni te hacen caso.
+77EA0|¡Es un pantano! ¡Ay, que me hundo!
+77EC0|¡Evita peleas o será tu final!
+77EE0|Me ganó la pobreza. ¡Y el mundo!
+77F00|Nada que decir. El amor os une.
+77F20|Todos los días de fiesta y juerga.
+77F40|¡Tú eliges! Guapas y guapos a tus pies.
+77F60|Desde el primer día, presos del amor ♥
+77F80|¡Es tu momento, {N}! ¡A por todas!
+77FA0|Pareja perfecta. Nada que añadir.
+77FC0|Si te gusta alguien, ¡lánzate ya!
+77FE0|¡No esperes a otros! Atácale tú.
+78000|Tu próxima cita promete. ¡Je, je! ♥
+78020|¡Harás algo terrible ante tu amor!
+78040|En lo último está lo bueno... Quizá.
+78060|Si dejas pasar el tiempo, se esfuma.
+78080|A veces lo bonito es amar en secreto.
+780A0|Si un dios te deja, otro te recoge.
+780C0|Llama por teléfono. ¿Te entenderá?
+780E0|¡No muestres tus defectos!
+78100|El amor es un engaño entre dos.
+78120|Mal presagio... ¡y acertado!
+78140|¡Bien! Tu pareja es... ¡programador!
+78160|Seré fuerte yo sol{o}. ¡Odio el amor!
+78180|¡Se acabó! A {N} le espera un mal amor.
+781A0|Supera esta crisis y serás feliz.
+781C0|¡No me arrepiento de nada en la vida!
+781E0|Ella se esfuma y él sabe la verdad.
+78200|Un bebé precioso. ¡Felicidades!
+78220|¡Un bebé precioso ♥ y parto fácil!
+78240|Esas caderas no engañan. 15 min.
+78260|¡Bebé sano y robusto! ¡Viva!
+78280|Con cuidado, todo bien. Bebé sano.
+782A0|¡Menos mal que hice natación! 30 min.
+782C0|Un parto más fácil de lo que crees.
+782E0|Nacerá un bebé fuerte.
+78300|Nace pequeño y crece grande. 45 min.
+78320|Nace bien gracias a mamá.
+78340|La salud es lo primero. Y el bebé.
+78360|Comiste demasiado. 90 min.
+78380|Parto normal. ¡Bebé normal!
+783A0|Deja la casa y cuida tu salud.
+783C0|Todos bien. 60 min. ¡Parto fácil!
+783E0|Parto algo difícil. ¡Ánimo, mamá!
+78400|Come y duerme bien. ¡Ten salud!
+78420|Bastante rato. 110 min.
+78440|¡Pobre pero con muchos hijos!
+78460|Deja el trabajo y descansa.
+78480|¡Papá, a ver si te toca a ti! 2 días.
+784A0|¡No se parece a mí! ¿De quién es?
+784C0|Aliméntate bien.
+784E0|¡Solo estabas gorda! Menudo error.
+78500|Hallarás a tu media naranja. ¡Bien!
+78520|¡Un braguetazo con todo servido!
+78540|Tu ideal llega y el nudo se ata fuerte.
+78560|Lloverán propuestas y dudarás.
+78580|Haz caso a tus mayores.
+785A0|Y luego... ¡lo que sea, será!
+785C0|Darás con alguien estupendo. ¡Bien!
+785E0|De repente... ¡compromiso!
+78600|Sin prisas, gánate su corazón.
+78620|Busca bien y sin agobios.
+78640|Sin prisa, pero sin llegar tarde.
+78660|¡Calma! La siguiente es mejor.
+78680|Cuesta al principio, luego va bien.
+786A0|El destino es raro. Llega de repente.
+786C0|Ya es el momento justo.
+786E0|Primero, busca con quién casarte.
+78700|Un zorro te engaña: ¡boda falsa! Ojo.
+78720|¡Es una trampa! ¡Cuidado!
+78740|¡La cara no importa! ¡Importa el corazón!
+78760|Decide mientras te lo ofrecen, {N}.
+78780|Esposa perfecta... Y muy lista.
+787A0|El hilo rojo del destino está roto.
+787C0|¡Sin prisas! Atraen desgracias.
+787E0|Un dios te protege. ¡Ánimo, {N}!
+78800|¡Negocio boyante! No paras de reír.
+78820|¡Es el momento! ¡Vende sin parar!
+78840|Saldrá bien. ¡Sé atrevido!
+78860|¡El negocio crece y va genial!
+78880|Si eres rápido, ganas. ¡Planéalo!
+788A0|Llega un contrato gordo. ¡Bien!
+788C0|Buenos tratos comerciales.
+788E0|Se gana algo. Pero sin prisas.
+78900|{N} gana por tenaz. ¡A por todo!
+78920|Negocia con calma y saldrá bien.
+78940|No lo dejes en otras manos. ¡Cautela!
+78960|Piensa antes de actuar. Hay tiempo.
+78980|Echando cuentas... ¡esto marcha!
+789A0|Si esperas con calma, verás camino.
+789C0|Sin pedir mucho, irá a mejor.
+789E0|Abren otra tienda justo enfrente.
+78A00|Lávate la cara y empieza de cero.
+78A20|Falta hablarlo. ¡Y tenacidad!
+78A40|Una gran empresa llega al barrio.
+78A60|Si el otro gana, tú no ganarás.
+78A80|¡Retírate ya o perderás mucho!
+78AA0|Vaya, qué pena. No era tu destino.
+78AC0|Investiga bien a tu socio.
+78AE0|¡A empezar otra vez de aprendiz!
+78B00|Vivirás de los intereses del banco.
+78B20|¡Bien hecho! ¡Felicidades!
+78B40|Valoran tu talento: ¡el trabajo soñado!
+78B60|¡Tendrás enchufe en una telefónica!
+78B80|Pronto habrá algo bueno. ¡Ánimo!
+78BA0|¡Entras donde querías! ¡Ánimo!
+78BC0|¡Suerte! Te coge una gran empresa.
+78BE0|¡Con una sonrisa, un buen trabajo!
+78C00|¡Ábrete camino! ¡Ánimo, novat{o}!
+78C20|Creo que te iría bien el sumo.
+78C40|Sin prisas y con calma...
+78C60|Lo duro empieza al entrar. ¡Ánimo!
+78C80|Te dejarán el negocio familiar.
+78CA0|Tendrás trabajo. Pero no te confíes.
+78CC0|Una empresa normal. ¡A trabajar!
+78CE0|Las oposiciones ya pasaron.
+78D00|Mmm... Mmmm... ¡qué difícil!
+78D20|Sin cabeza, ¡pero con músculo!
+78D40|Pide los papeles para el ejército.
+78D60|Algún día cambiará tu suerte.
+78D80|De momento, trabaja con ganas.
+78DA0|¡Tranquil{o}, un año más de clase!
+78DC0|¿Eh? ¿Por qué? ¿¿Cómo??
+78DE0|Espera y entra en otra mejor.
+78E00|¡Si te mudas, ahora! Habrá suerte.
+78E20|El casero del piso nuevo es viuda ♥
+78E40|¡Hallarás casa con buen vecino!
+78E60|¡Suerte! Encontrarás algo muy bueno.
+78E80|Al lado viven estudiantes ♥
+78EA0|Mejor un sitio soleado.
+78EC0|Un sitio mejor. ¡Un poco más feliz! ♥
+78EE0|Enfrente vive una oficinista ♥
+78F00|Si te sobra dinero, múdate.
+78F20|Pronto encontrarás un sitio genial.
+78F40|Encima del piso nuevo, una abuela.
+78F60|No te mudes con prisa. ¡Espera!
+78F80|Las prisas no traen nada bueno.
+78FA0|Detrás del piso nuevo: casada ♥
+78FC0|Mejor si te ayudan los amigos.
+78FE0|¡Saluda bien a tus nuevos vecinos!
+79000|Debajo del piso nuevo vive... ¡!
+79020|De momento, mejor esperar.
+79040|Las vecinas parecen muy duras.
+79060|¡Tras la pared, unos recién casados!
+79080|¡No hay dinero para mudarse! Snif.
+790A0|¡No te muevas! Aguanta un tiempo.
+790C0|¡Socorro! ¡El casero es especulador!
+790E0|Mejor no moverse por ahora.
+79100|¡Ganas el premio de un concurso!
+79120|Quien da, recibe. Comparte algo.
+79140|¡Dinero a raudales! Qué envidia.
+79160|Te dan la paga. ¡Te sientes ric{o}!
+79180|¡Dinero extra! Pero no lo gastes.
+791A0|¡Ganarás mucho y serás ric{o}!
+791C0|¡Hallas una cartera y te recompensan!
+791E0|De compras, te dan mucho cambio.
+79200|Ahorra poco a poco.
+79220|¡Encontré cien yenes! ¡Qué feliz! ♥
+79240|¡Ahorra y ahorra hasta ser ric{o}!
+79260|Ser pobre a veces mola. A veces.
+79280|Te dan propina por un recado ♥
+792A0|Busca por casa. ¿Habrá algo?
+792C0|Pide prestado a un despistado.
+792E0|¡Siempre sin dinero! ¿Eh?
+79300|¡Nada de apuestas! Ya mengua solo.
+79320|Sin dinero también se vive.
+79340|Pierdes la cartera. ¡Aaah!
+79360|¿En qué lo gasté? ¡No me queda nada!
+79380|Sin dinero no hay amor. ¡No apuestes!
+793A0|Pillan tu fraude fiscal. ¡Glups!
+793C0|Un billete para {N}: ¡qué derroche!
+793E0|El dinero vuela. ¡Cierra la cartera!
+79400|Tu comida favorita te sabrá a gloria.
+79420|¡Hoy también en forma! ¡Qué aire!
+79440|Ni una enfermedad. ¡Vivirás mucho!
+79460|Pareces la salud en persona. ¡Bien!
+79480|¡Qué bonita es la salud! Cuídala.
+794A0|¡Si ríes tanto, se te cae la mandíbula!
+794C0|¡Hoy también en forma! ¡Todo rico!
+794E0|Te quiero. ¡Cuídate mucho! ♥
+79500|¡El cuerpo de {N} rebosa energía!
+79520|La salud está en la mente. ¡Ánimo! ♥
+79540|Ten en cuenta tu edad y no te pases.
+79560|La salud es cosa de ánimo. Sin excesos.
+79580|Tan san{o} como siempre.
+795A0|¡Ojo al salir del baño! Te resfrías.
+795C0|La salud es genial. ¡Hoy, en forma!
+795E0|Aunque sea leve, cuídate mucho ♥
+79600|Deja el tabaco y cuida tu salud.
+79620|No fuerces la cabeza.
+79640|¡Deja hoy mismo esa vida malsana!
+79660|Cuida tu salud y duerme lo justo.
+79680|Cuida siempre bien tu salud.
+796A0|¡Mañana no se levanta! ¿El qué?
+796C0|¡Ojo con el agua del grifo y come bien!
+796E0|¡Cuidado, podrías ponerte malo!
+79700|¡Vayas donde vayas, serás feliz!
+79720|Viento amigo, tierra madre. Mira arriba.
+79740|Todos los rumbos son buenos.
+79760|Ve donde quieras. ¡El futuro espera!
+79780|Ve hacia el norte. ¡Adelante!
+797A0|¡Esto es juventud! ¡Corre al ocaso!
+797C0|Donde sale el sol te espera la dicha.
+797E0|Tu rumbo es bueno, {N}. ¡Adelante!
+79800|Las ocho direcciones son buenas. ¡Sigue!
+79820|La felicidad ya llega. ¡Espera!
+79840|Sin buen camino tampoco hay malo.
+79860|La vida tiene de todo.
+79880|Si llueve, mejor quedarse quieto.
+798A0|Vayas donde vayas, ¿saldrá bien?
+798C0|Todo regular. ¡Pues de viaje!
+798E0|¡Trampa donde menos esperas! Ojo.
+79900|¿Dónde estoy? ¿Quién soy yo?
+79920|Quien mucho anda, tropieza. ¡Aguanta!
+79940|A veces quedarse en casa está bien.
+79960|¿Adelante, mal? ¿Andar de espaldas?
+79980|Todo bloqueado. Sin salida.
+799A0|¡A veces hay que dar un rodeo! Calma.
+799C0|¡No te muevas! ¡Quédate quiet{o}!
+799E0|Ninguna dirección vale. Aguanta.

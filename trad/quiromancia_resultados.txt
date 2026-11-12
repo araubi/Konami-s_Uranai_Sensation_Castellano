@@ -1,0 +1,65 @@
+# Quiromancia, resultados. {o} = o/a y {a} = nada/a según el sexo de la persona.
+# OFFSET|texto. Se conserva la cabecera de 3 bytes del original. Caja de unas 16 letras por línea; las páginas se reparten solas.
+24000|{N} es de l{o}s que, al enamorarse, lo dejan todo por amor. Pura pasión. ¡Enamorarse de alguien así tiene que ser precioso! ♥
+24043|Tienes un carácter terco, caprichoso y difícil. Pero en el fondo te sientes sol{o}, te importa demasiado lo que piensen y no sabes mostrar lo que sientes.
+24091|Te cuesta hablar y pareces algo tímid{o}. Pero ten valor y dile claramente a esa persona lo que sientes. No hay otra.
+240D4|Eres tenaz, valiente y de carácter fuerte, y eso está bien. Pero dicen tus manos que haces la pelota a tus superiores y eres duro y pesado con los de abajo. Tu carácter está un poco retorcido.
+24144|¡Si no cambias ese egoísmo, olvídate de tener pareja!
+24166|Miedos{o}, tímid{o} y poco sincer{o}: lo tienes todo. ¡Así, {N} sale perdiendo!
+241A3|{N} no sabe mostrarse tal como es. Por eso, empieza por hacer muchos buenos amigos de tu sexo. Sin prisas y con optimismo, poco a poco te sentirás llen{o} de vida.
+24212|{N} tiene un tipo de mano poco común entre los japoneses.
+24230|{N} tiene el tipo de mano más común entre los japoneses.
+2424E|{N} tiene la mano llamada de pliegue único, muy rara entre los japoneses. ¡Trae una suerte muy fuerte! Dicen que muchos políticos y empresarios de éxito la tienen.
+242BD|Tus manos dicen que {N} piensa las cosas de forma muy lógica.
+242E6|¡La suerte de {N} con el dinero es la mejor! Si vas a comprar lotería, ¡es ahora o nunca!
+2430D|Hay señales de que gastas el dinero en tonterías. ¿Y si empiezas a ahorrar?
+24342|¡La suerte de {N} con el dinero es pésima! Aunque trabajes, te faltará. Resígnate y quédate en casa quietecit{o}.
+24380|Tus manos dicen que {N} pasará la vejez viviendo con sus hijos.
+243A7|
+24400|Lo mejor para ti es conocer gente: citas a ciegas o amigos que te presenten a alguien. Tus manos dicen que {N} es trabajador{a} y se desvive por quien quiere. Así que deja que, con calma, descubran lo que vales.
+244C0|Si {N} parece tan fin{o} y elegante a los demás es porque vive persiguiendo sueños. Sueñas mucho con el amor, pero quizá por timidez acabas quedándote en un rincón.
+24521|Delante de quien te gusta pierdes todo el valor y no consigues decir lo que sientes. En ese caso, mejor dilo por carta. ¡No seas tan discret{o} y lúcete más!
+24592|¡{N} es todo un torbellino! Eres muy sincer{o} con lo que sientes, pero parece que no piensas mucho en los demás. Deberías fijarte un poco más en lo que te rodea.
+245EC|Al principio todo va bien, pero con el tiempo empiezan las peleas y los líos. Mejor no lanzarse tan de cabeza.
+2463B|¡{N} es muy activ{o} y tiene las ideas claras! Odias perder y no soportas que te manden. Pero eres muy constante: por duro que sea, nunca dejas nada a medias. ¡Eres muy seri{o} y responsable!
+246D0|{N} también es muy lanzad{o} en el amor. No tienes paciencia para esperar a que se fijen en ti: vas a por quien te gusta y, en un abrir y cerrar de ojos, te casas. Pero ser lanzad{o} está bien hasta cierto punto. Si te pasas, te costará encontrar pareja.
+2479E|¡{N} odia las medias tintas! Tampoco soporta estar quieto. Siempre en marcha, buscando cosas nuevas. ¡Una persona llena de vida!
+24800|Naces en una familia normal, creces de forma normal y vives tranquil{o} y sin apuros. Por eso, tus manos dicen que no harás nada especialmente grande.
+2485D|Tienes mucho genio y eres caprichos{o}. Si alguien te gana, te enfadas enseguida. Y como sonríes poco, caes mal a la gente.
+248A5|¡{N} es de l{o}s que saben arrimarse al sol que más calienta! Te adaptas a los demás y nunca sales perdiendo.
+248E8|El talento de {N} es saber dirigir a la gente. ¡Nadie lo hace mejor que tú!
+24920|Tus manos dicen que algo te preocupa. ¡Pero si le das tantas vueltas, acabarás enfermando!
+24951|{N} cae bien a todo el mundo. Aprovéchalo: abre una tienda o, si trabajas en una empresa, dedícate a las ventas.
+2499F|{N} tiene una mente rápida y mucho ingenio. ¡Serías perfect{o} como locutor{a} o presentador{a}!
+249E1|Tus manos dicen que {N} odia que le encasillen.
+24A05|{N} tiene intuición y es muy agud{o}. ¡Si eliges un trabajo donde aprovecharlo, triunfarás seguro!
+24A3E|{N} no puede estarse quieto, así que probará muchas cosas. Aun así, tiene una suerte fuerte que le llevará al éxito. ¡Tranquil{o}!
+24A93|Tus manos dicen que {N} lo ve todo de forma soñadora. ¡De vez en cuando, pon los pies en la tierra!
+24AE2|¡Eres responsable y sabes administrarte, y tienes muchos ahorros!
+24B0B|¡Hay señales de que vas a hacerte daño! Por un accidente tuyo o por verte metid{o} en otro. Sobre todo, sin prisas, y vive con calma.
+24B66|Tus manos dicen que {N} es algo tímid{o} y no sabe mostrar lo que siente. ¡Confía en ti y ten valor!
+24C00|En la mano de {N} no está la línea que muestra la salud. Así que no sé nada de tu salud. ¡Lo siento!
+24C30|{N}, no veo bien tu suerte con el dinero. ¡Lo siento!
+24C4F|¿{N} está ahora en el paro? ¡No tienes línea del trabajo! ¿O es que te van a despedir?
+24C88|Tus manos dicen que tu dinero crecerá cuando tengas poder, como un gran jefe.
+24CBB|Tienes muchas ganas de estar por encima y de mandar a los demás. ¡La política parece lo tuyo!
+24D01|¡Parece que a {N} le protege el dios del dinero! Nunca te faltará.
+24D32|¡Lo importante es esforzarse! Cuanto más luches, más cosas buenas tendrás.
+24D58|Tu suerte con el dinero será máxima en cuanto te cases. Con la ayuda de su familia y tus parientes, ¡vivirás tranquil{o}!
+24DA0|¡Aunque no hagas nada, cuantos más años cumplas, más dinero tendrás!
+24DC3|Tienes buena estrella, ¡así que también con el dinero!
+24DDF|{N} no hace caso a las ocasiones que le dan: se abre camino solo. ¡Qué fuerza! Eres algo terc{o}, así que triunfarás en un trabajo que hagas tú solo.
+24E44|¡{N} cae bien a todos enseguida y será popular allá donde vaya!
+24E7E|Si decides que un trabajo es lo tuyo, aunque sea duro, lo mejor es seguir en él siempre.
+24EBA|Tu destino es cambiar mucho de trabajo. Pero a {N}, cuanto más cambia, ¡mejor le va!
+24EFC|Tu suerte dice que tus padres y parientes te ayudarán mucho. ¡No les des muchos disgustos!
+24F39|Sin ayuda de nadie, ni de tus padres, tienes fuerza para abrirte camino solo. Si no paras de esforzarte, algún día tendrás tu premio. ¡Con tu talento puedes llegar a dirigir una empresa!
+23C00|Tal como vas, tu suerte en la vejez será malísima. Pero si cambias de actitud, ¡quizá cambie tu suerte!
+23C3B|{N}, aunque pases los años, seguirás en activo y trabajando a tope.
+23C65|{N}, se ve que acumulas descontento. ¿Por qué no cambias de aires y empiezas algún deporte?
+23C9A|{N}, tienes un carácter algo brusco, pero también talento artístico. Lo mejor es que potencies lo bueno de tu carácter.
+23CED|{N}, tu salud: tienes el estómago delicado. ¡Más vale que te cuides!
+23D1E|{N}, eres de los que se preocupan por cualquier tontería. Ya que hay que vivir, ¡mejor vivir con alegría!
+23D60|{N}, si eliges trabajo, ¡lo tuyo es ayudar a los demás! Por ejemplo: médic{o}, enfermer{o}, policía... Hay muchos.
+23DAD|Tu salud flojea un poco. No es para tanto, pero si notas algo, cuida lo que comes.
+23DEE|{N}, en tu mano no aparece la línea que muestra la suerte en la vejez. Así que no lo puedo saber. ¡Lo siento!

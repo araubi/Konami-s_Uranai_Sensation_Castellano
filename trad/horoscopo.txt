@@ -1,0 +1,91 @@
+# Horóscopo occidental: OFFSET|texto. Cabecera de 3 bytes conservada. Caja de unas 29 letras por línea; las páginas se reparten solas. {o} = o/a según el sexo.
+2D000|El Sol influye en tu suerte con el dinero, así que te irá bastante bien. Sabrás gastar disfrutando y aun así ahorrar. Incluso puede que el dinero te dé poder.
+2D068|Cuidas los detalles y, usando bien poco dinero, vas aumentando tu fortuna poco a poco. ¡Qué list{o}!
+2D0B2|{N} se lleva bien con la gente y encuentra su suerte con el dinero en sus relaciones. También aparecerá alguien del otro sexo que te ayudará.
+2D0F2|¡Tienes muchas ganas de ser ric{o}! Sientes una pasión casi enfermiza por ganar dinero. Con esfuerzo y talento puede que reúnas una gran fortuna, pero por un pequeño error podrías perderla toda.
+2D172|¡La mejor suerte con el dinero, más que nadie! Hasta te puede caer una herencia de repente. Además, tu buena estrella te dará ocasiones de ascender. ¡Todo son ventajas! Ni en los peores momentos te faltará dinero. ¡Qué suerte!
+2D1E5|Ánimo. Es lo único que puedo decirte. No derrochas, ahorras y trabajas muchísimo, pero el dinero no se te queda. Una vida en la que apenas llegas a fin de mes. ¡Pero no te rindas! Poco a poco y con calma.
+2D260|La suerte de {N} con el dinero es imprevisible. Cuando crees que una idea o un invento te ha hecho ric{o}, de pronto lo pierdes todo por algo que nunca imaginaste.
+2D2B8|¡No tienes ningún sentido del dinero! Ni sabes de economía ni sabes administrarte. Solo te queda rezar.
+2D2FE|Por dinero eres capaz de cualquier cosa, y dicen los astros que dejarás una gran fortuna. Pero si ganas dinero haciendo trampas, algún día se volverá contra ti. Mejor ser honrad{o} y trabajar poco a poco.
+2D380|Como las fases de la Luna, tu suerte con el dinero sube y baja. Aun así, tus amigos y conocidos te echarán una mano. Pero si abusas de ellos, ¡te quedarás sin amigos!
+2D400|No sueles caer enferm{o} de golpe, pero te resfrías con facilidad y eres friolero. ¿Y si fortaleces un poco el cuerpo? ¡Ganarás salud!
+2D453|Pareces débil, pero por dentro eres fortísim{o}. Aun así, si te confías y te pasas, el cansancio se acumulará y podrías caer redond{o}...
+2D4AE|De joven, {N} estará delgad{o}, pero con los años engordará. Vaya chasco. Además, tienes tendencia a hacerte daño en la espalda. ¡Que no se malinterprete, eh!
+2D516|La salud de {N} es delicada: estás delgad{o} y enfermas a menudo desde pequeñ{o}. Pero hay quien se cuida muchísimo y vive muchos años. ¡Come bien y vive mucho!
+2D57C|Tienes una salud bastante normal. Pero a veces podrías pillar alguna enfermedad rara. Quizá tenga que ver con Urano, el planeta que rige tu salud, que simboliza la herencia.
+2D5E0|No eres muy fuerte y a veces enfermas por el ánimo. Si te encierras en sitios oscuros, puedes ponerte malo. ¡Por eso a {N} le sentaría bien vivir en el campo!
+2D800|{N} nació con una energía ardiente y mucha vitalidad. ¡Eres pura energía! Aunque te canses, con un poco de descanso te recuperas: tienes un cuerpo fuerte. ¡Pero no te pases o enfermarás! Si tienes fiebre o te duele la cabeza, tu cuerpo te está dando la señal de alarma. ¡En esos casos, descansa sin falta!
+2D8CB|Normalmente tienes buena salud, pero cuando enfermas te cuesta mucho recuperarte. Fuerza no te falta. Además, a veces enfermas por no saber soltar el estrés.
+2D93F|Los astros dicen que {N} no está tan san{o} como para presumir. Más bien tiendes a enfermar por cansancio mental.
+2D999|¡Te pones enferm{o} con facilidad! Sobre todo de pequeñ{o}, es fácil que tengas alguna enfermedad seria. Pero también te curas rápido. Parte es cuestión de actitud. Mejor eso que no curarse. ¡Por ejemplo, a menudo te curas en un momento yendo a un balneario!
+2DA46|¡Vitalidad y energía de sobra! No te tumba cualquier cosa: tienes una salud de hierro. Pero ojo con el tabaco y el alcohol.
+2DA94|{N} no es enfermiz{o}, pero enferma a menudo. Hay quien siempre anda algo pachucho. Eres un poco nervios{o}. ¡Toma el sol de vez en cuando!
+2DB14|¡{N} hace lo que sea por conseguir lo que quiere! Puede charlar tan tranquil{o} con alguien que no soporta... Un talento curioso. Pero cuando se desanima, se vuelve muy miedos{o}.
+2DB8D|{N} pone pasión en todo y cuida mucho a la gente. ¡Harás muchos amigos!
+2DC00|Eres optimista y de carácter frío. ¡Y tienes un talento enorme para ganar dinero! Siempre hay alguien así cerca. Gente que no se le escapa una.
+2DC54|Eres simpátic{o} y de buen corazón. Caerás bien a chicos y chicas. Pero cuando te deprimes, te pones nervios{o} y solo imaginas cosas malas.
+2DCB6|Los astros dicen que {N} es list{o} y le encanta estudiar. ¿Será verdad? Al menos te gustará leer. Pero si te hundes y pierdes tu lado humano, puedes hacer cosas impensables. Y si va a peor, ¡acabarás odiando a la gente!
+2DD55|{N} vive solo por instinto y sus emociones suben y bajan muchísimo. Pero persigue tantos sueños que podría acabar arruinándose. ¿Y si te curtes un poco en el mundo real?
+2DDC3|¡Tranquil{o} y seri{o}! Sabes entender la pena y el dolor de los demás. Pero quizá eres demasiado tímid{o}...
+2DE07|Eres generos{o} y cuidas a tus amigos. Tendrás muchos y buenos. Pero cuando tropiezas te vuelves inconstante y caprichos{o}, y puedes dejar escapar la buena suerte.
+2DE63|Tan pronto eres miedos{o} como atrevid{o}: tus emociones cambian muy rápido. En los buenos ratos pareces radiante y atraes a la gente, pero en los malos te ven como un{a} caprichos{o}.
+2DECF|List{o}, intuitiv{o} y además simpátic{o}. Pareces tranquil{o}, pero te acaloras con facilidad y tienes valor para hacer de repente cosas increíbles.
+2DF29|{N} es list{o} y algo terc{o}: una persona muy responsable. ¡Pero no seas tan cabezota!
+2DF78|¡Eres la persona más romántica de todas! Te llevas muy bien con la gente y tienes éxito con chicos y chicas.
+2E000|Comprendes la pena y el dolor ajenos, y te esfuerzas con pasión por hacer algo por el mundo. Los astros dicen que no te rindes por cualquier cosa: tienes agallas.
+2E062|{N} es activ{o}, alegre y de mente rápida. ¡Y como eres simpátic{o}, harás muchos amigos!
+2E0A6|{N} tiene una energía arrolladora que nadie puede imitar. Eres valiente y paciente. ¡Pero si te vienes arriba, puedes pasarte y estropearlo todo!
+2E10F|{N} tiene mucha fuerza para triunfar en la vida. Además es amable, tranquil{o} y cae bien. Pero cuando sale su lado malo, se vuelve arrogante y caprichos{o}. ¡Perderás amigos!
+2E189|{N} es muy emotiv{o} y, vaya donde vaya, se gana el cariño de los demás. ¡Sabes trabajar en equipo y podrías destacar en muchos sitios!
+2E1EA|{N} quiere probarlo todo y le encantan las novedades. ¡Y encima tiene talento para hacer lo que sea! Pero su defecto es que se cansa enseguida.
+2E245|¡Apasionad{o} y terc{o}! Tienes valor y sabes actuar. Además eres muy cariños{o}, y hay quien liga muchísimo. ¿Será el caso de {N}?
+2E298|{N} es alegre y sincer{o}, y persigue sus sueños con mucha energía. Además, eres sensible y tienes buen corazón. Pero cuando sale tu lado malo, te vuelves caprichos{o}.
+2E312|¡{N} hace lo que sea por conseguir lo que quiere! Puede charlar tan tranquil{o} con alguien que no soporta... Un talento curioso. Pero cuando se desanima, se vuelve muy miedos{o}.
+2E38B|{N} pone pasión en todo y cuida mucho a la gente. ¡Harás muchos amigos!
+2E400|¡{N} es list{o} y le encanta pensar! Dicen que tienes talento para inventar y escribir historias. Pero si lo ves todo de forma demasiado lógica, puedes herir a los demás. ¡Cuidado!
+2E47E|Eres fuerte por dentro, pero no lo muestras: tienes un carácter tranquilo. Por eso {N} parece calladit{o}, ¡pero en realidad es muy responsable!
+2E4CE|{N} atrae y arrastra a los demás con su fuerza. Además, por duro que sea, eres capaz de empezar de nuevo tú sol{o}. Pero cuando te da por presumir, no hay quien te aguante. ¡Ten mucho cuidado!
+2E54D|{N} tiene presencia y es muy seri{o}. ¡Tienes una voluntad firme que no se deja llevar por las emociones!
+2E590|{N} es enérgic{o}, valiente y decidid{o}, y además tiene talento para tramar planes. ¡O sea, que es un pillo! ¡Ni se te ocurra usarlo para el mal! Si lo usas para el bien, aunque haya problemas, sabrás salir adelante con tu talento.
+2E651|A {N} le encanta pensar en sitios tranquilos. Y parece que es demasiado nervios{o}.
+2E69E|Saturno influye en {N}: eres responsable, te las apañas sol{o} y se puede confiar en ti. ¡Y sabes administrarte! Si te casas, mejor con alguien así.
+2E702|{N} es activ{o} y también intelectual: tiene un carácter bastante equilibrado.
+2E734|{N} es cariños{o}, atent{o} y transmite dulzura. Entiendes cómo se sienten los demás. Pero cuando sale tu lado malo, te dejas influir y llevar por otros. ¡Ten las ideas claras!
+2E800|Tienes mucho genio, siempre con ganas de todo: si te tocan, quemas. No digo que todos sean así, pero recibes doble la fuerza de Marte, y puedes ser fri{o} y meterte con los débiles.
+2E87F|{N} es algo temerari{o}, pero el Sol le da un aire alegre y tranquilo. ¡Todos confían en ti y cuentan contigo! Eres muy seri{o}.
+2E8F3|{N} guarda una gran pasión por dentro. Pero también es amable y comprensiv{o}. Mantén siempre esa energía y caerás bien y harás amigos enseguida.
+2E961|Eres tranquil{o} y atent{o}, y tienes éxito con el otro sexo. ¡Y además tienes talento artístico! Qué envidia.
+2E9A4|{N} es encantador{a} y muy intuitiv{o}: una persona cercana. Das tan buen ambiente que la gente se te acerca sin que digas nada.
+2EA08|Seri{o}, sincer{o} y muy dulce, pero te encanta pensar. Sueles perderte en tus pensamientos. ¡Está bien ser tranquil{o}, pero no tan sombrí{o}!
+2EA64|{N} es list{o} y sabe calar a la gente. Eres generos{o}, pero también confías mucho en ti. Si te elogian un poco, te pones contentísim{o} sin pensar en nadie más.
+2EAD0|List{o}, intuitiv{o} y además simpátic{o}. Pareces tranquil{o}, pero te acaloras con facilidad y tienes valor para hacer de repente cosas increíbles.
+2EB2B|{N} es list{o} y algo terc{o}: una persona muy responsable. ¡Pero no seas tan cabezota!
+2EB7A|¡Eres la persona más romántica de todas! Te llevas muy bien con la gente y tienes éxito con chicos y chicas.
+2EC00|{N} es un romántico al que le importa el ambiente. Le gusta pasar el rato con mujeres en sitios algo lujosos. Es un poco ligón, pero nunca romperá su vida.
+2EC6C|Cuando te enamoras, adoras a esa mujer con locura. Pero si te traiciona, arde en ti la venganza. ¡Qué miedo da {N}! En la intimidad, también eres impetuoso y salvaje.
+2ECCA|{N} también parece un caso complicado. Es tan fogoso que una sola mujer no le basta, ¡y acaba teniendo amantes!
+2ED08|{N} detesta el desorden en la vida íntima. No es de los que buscan pareja solo para divertirse. Los astros dicen que, ya mayor, vivirá feliz con la esposa a la que ama.
+2ED6D|A {N} el sexo no le obsesiona. Le interesa más cómo es una mujer por dentro y no se lanza enseguida. Valora más el amor platónico, es decir, el espiritual, el de los sentimientos.
+2EDEE|¡Qué peligro! Tienes que tener las ideas claras. {N}, no controlas tus impulsos y caes fácilmente en aventuras peligrosas. ¡Ojo con los errores por culpa del alcohol o de las mujeres!
+2EE9E|Saturno influye en {N}: eres responsable, te las apañas sol{o} y se puede confiar en ti. ¡Y sabes administrarte! Si te casas, mejor con alguien así.
+2EF04|{N} es activ{o} y también intelectual: tiene un carácter bastante equilibrado.
+2EF36|{N} es cariños{o}, atent{o} y transmite dulzura. Entiendes cómo se sienten los demás. Pero cuando sale tu lado malo, te dejas influir y llevar por otros. ¡Ten las ideas claras!
+2F000|¡{N} es muy agresivo e impulsivo! Si le gusta una mujer, la persigue sin descanso, y como ninguna le basta, enseguida va a por otra. Lo que se dice un donjuán. Sinceramente, lo peor.
+2F090|A {N} le rige Venus y es muy celoso. Enseguida sospecha que su pareja le engaña y se enfada. Además, a las mujeres guapas les hace regalos para conquistarlas. Con los años se vuelve más ambicioso y hasta podría tener una amante.
+2F126|{N}, te pones nervioso con el tema del sexo. Te interesan las mujeres, pero no confías en ti y cualquier cosa te hiere. Y a veces, cuando la rutina ya no te emociona, coges manías raras. ¡Cuidado!
+2F1B1|{N} parece un hombre serio. No va contando intimidades, y si su primera vez sale bien, su matrimonio será muy feliz. Es de los que siempre querrán a su esposa tal como es.
+2F21C|¡{N}, sinceramente, es un mujeriego! Cambia de mujer como de camisa y solo ve el sexo como un juego. ¡Mujeres del mundo, no os dejéis engañar por hombres como {N}!
+2F286|{N} es serio hasta decir basta. Sigue siendo como un niño, y si una mujer intenta seducirle, sale escaldado. Casado, solo tendrá ojos para su esposa. Ni quiere ni sabría ser infiel.
+2F400|El amor de {N} lo rige Venus. Eres tranquila y estable, y puedes tener una relación duradera. No te enamoras ni te desenamoras de golpe. Para ti la paz es la felicidad, y eso es buena suerte. Pero hay un problemilla: con un chico guapo y elegante caes rendida enseguida. ¡O sea, que te fijas mucho en el físico!
+2F4BE|La estrella del amor de {N} es Plutón. Amas con una seriedad que da miedo y te entregas por completo. Pero esperas lo mismo del otro. ¡Qué seria! Aunque, pensándolo bien, ¿no es un poco agobiante?
+2F52E|La estrella del amor de {N} es Júpiter. Eres activa, y lo tuyo es vivir el amor con alegría, sin parar quieta. Con tanta energía, no sabes amar a escondidas. ¡Eres alegre y llamas muchísimo la atención!
+2F5A6|Saturno rige tu lado amoroso. ¡Eres seria y muy cariñosa! Pero por influencia de Saturno das una primera impresión fría y distante. Creo que sales perdiendo. No sabes expresar tu cariño... ¡y eso que eres una mimosa!
+2F649|Urano rige el amor de {N}, así que con los chicos sientes más amistad que amor. Se puede decir que eres muy natural. Primero haz muchos amigos chicos. Entre ellos seguro que aparece alguien que de verdad te entienda.
+2F6F1|La estrella del amor de {N} es Neptuno. Eres sensible y pareces fácil de convencer. Si alguien te gusta un poco, te dejas llevar y te entregas del todo. ¡Es peligroso! Madura un poco y aprende a conocer a la gente.
+2F800|Marte, la estrella de la guerra, rige tu amor: ¡eres muy lanzada y atrevida! Más que obsesionarte, te lanzas al amor por pura curiosidad. Además, te enamoras a primera vista. ¡Cuidado, no caigas con un tipo raro!
+2F8A5|Quien rige tu suerte en el amor es Venus, la famosa estrella del amor. Te gusta el lujo más que a nadie. ¿A que sí? Los sentimientos importan, pero también quieres regalos. No está mal, pero ¿no te costará encontrar a alguien que te satisfaga?
+2F95F|Tu amor lo rige Mercurio, la estrella de la inteligencia. Por eso vives el amor a la ligera, como un juego: charlas con estilo, salís a mil sitios... ¡Como amigos! Pero hay un problema: eres tan ligera que podrías salir con varios a la vez.
+2FA23|La Luna rige el amor de {N}: tienes un cariño maternal. En una palabra: ¡te desvives por los demás! Y eres muy emotiva. Si no te hacen caso o te tratan con frialdad, te deprimes. ¡O sea, eres una mimosa! Te pega alguien que parezca un padre.
+2FAC6|El Sol rige el amor de {N}. Algo masculina y radiante como el Sol, para ti sin brillo no hay amor. Mientras te cuidan, ¡eres la novia más dulce! Pero si te ignoran, contraatacas como si estallara toda la energía del Sol.
+2FB7D|La estrella del amor de {N} es Mercurio. Tu amor es sincero y serio. Pero eres algo maniática y te pierde la manía de razonarlo todo. Te da muchísimo miedo el amor y, sin embargo, te engaña el primer tipo raro que pasa.

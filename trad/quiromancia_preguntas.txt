@@ -1,0 +1,56 @@
+# Quiromancia, descripciones de las muestras: OFFSET|texto. Caja de 2 líneas de unas 22 letras.
+1AFE0|De la vida sube una línea hacia el índice
+1AFFF|Vida que sube junto a la del destino
+1B00D|Sale de la vida una línea hacia el meñique
+1B027|Línea de la vida normal
+1B02F|Hay dos líneas de la cabeza
+1B039|La de la cabeza baja mucho al final
+1B04F|La de la cabeza es recta y horizontal
+1B064|De la cabeza sale una arruga al meñique
+1B080|De la cabeza sale hacia arriba una corta
+1B096|La de la cabeza está entrecortada
+1B0A9|Hay una cruz en la línea de la cabeza
+1B0BB|Hay una isla en la línea de la cabeza
+1B0CA|La del corazón llega hasta el índice
+1B0E0|La del corazón está cortada a trozos
+1B0F0|Bajo la del corazón, arruga de más de 3 cm
+1B10B|La del corazón no llega al dedo corazón
+1B11C|Corazón hasta el medio y abierta en dos
+1B13B|Hay una isla en la línea del corazón
+1B150|Arrugas finas en la línea del corazón
+1B161|Islas en el corazón, bajo el meñique
+1B17E|2 o 3 líneas suben bajo el meñique
+1B19F|Destino y corazón juntas hasta el índice
+1B1BE|La del destino llega bajo el índice
+1B1D2|Destino recta, abierta en dos bajo el corazón
+1B1F3|La del destino empieza junto a la vida
+1B20A|Destino curva desde el monte de la Luna
+1B220|Hay una sola, bien marcada
+1B22C|Está cortada a trozos
+1B237|No se distingue cuál es la del destino
+1B24D|La del destino empieza en la base del pulgar
+1B263|La del destino sale de la línea de la vida
+1B26F|La del destino se acerca a la de la vida
+1B27C|Hay muchas arrugas cortas
+1B28C|Hay una o dos arrugas largas y rectas
+1B2A3|La arruga se abre en dos al final
+1B2B8|La arruga está curvada
+1B2C5|La arruga tiene una isla
+1B2D2|La arruga baja hacia abajo
+1B2DF|La arruga sube hacia arriba
+1B2EC|¡No hay arrugas!
+1B2F5|Líneas de la vida y la cabeza separadas
+1B305|La de la vida y la de la cabeza están unidas
+1B316|Vida, cabeza y corazón se unen en un punto
+1B32F|Una línea clara en la base del anular
+1B346|Muchas arrugas finas cruzadas
+1B35F|La arruga tiene cruces o islas
+1B376|Hay dos arrugas paralelas
+1B385|Hay arrugas en cruz o en isla
+1B39A|Hay una arruga vertical bien clara
+1B3AA|Arruga en el monte de Marte
+1B3B5|Semicírculo en la base del índice
+1B3CB|Semicírculo en la base de corazón y anular
+1B3E5|Semicírculo en la base del dedo corazón
+1B3F9|Sale una arruga del monte de la Luna
+1B40C|Línea de la salud con isla o cruz

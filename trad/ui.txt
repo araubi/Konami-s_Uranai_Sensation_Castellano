@@ -1,0 +1,99 @@
+# Textos de la interfaz (impresora de UI, 8B42h). OFFSET (disco, byte [x] del letrero)|texto
+# '/' = renglón siguiente (con las coordenadas del original); '@XX,YY:' fija la posición en hex.
+# Si cabe en el sitio del original se escribe allí; si no, se comprime en el mapper.
+# OJO: EDF5 se coloca en tiempo de ejecución; sus dos renglones deben medir 10 y 7 letras exactas.
+#
+# --- Lista de personas (módulo 64h)
+D32A|¿En qué número?
+D285|¿Ver sus datos?/Sí/@58,9A:No
+D29E|¿Qué datos/quieres ver?
+D2B6|¿Qué número borro?
+D2D4|¿Borrar datos?/Sí/@78,8A:No
+D26D|Sí/@D0,98:No
+D320|Sí/@60,A0:No
+D580|Sí/@DF,A8:No
+D529|@58,7A:Afinidad/@96,7A:Omikuji/@CA,7A:Lista/@58,8A:Horóscopo/@96,8A:Quiromancia
+D517|=7A5000 7A8E00 7AC200 8A5000 8A8E00
+#
+# --- Registro (módulo 6Fh)
+E5C4|Escribe el nombre.
+101C4|Escribe el nombre.
+EDF5|¿Correcto?/Sí   No
+EE14|@62,5A:¿Cuándo naciste?/@3A,6A:Indicar/@7A,6A:No lo sé/@BA,6A:Salir
+EE5F|@62,5A:¿Dónde naciste?/@3A,6A:Indicar/@7A,6A:No lo sé/@BA,6A:Salir
+EE91|@62,5A:¿A qué hora naciste?/@3A,6A:Indicar/@7A,6A:No lo sé/@BA,6A:Salir
+EEC4|@62,5A:¿Hombre o mujer?/@3A,6A:Indicar/@7A,6A:Salir
+EEF6|@62,5A:¿Grupo sanguíneo?/@3A,6A:Indicar/@7A,6A:No lo sé/@BA,6A:Salir
+EE3F|@38,18: /@34,28:Mes/@34,38:Día
+EE4F|@70,30:h/@90,30:m
+E6E5|Dif
+E6EA|Para cambiarlo,/repite los datos.
+#
+# --- Impresora y salida
+12299|No hay ninguna/impresora conectada.
+17D49|No hay ninguna/impresora conectada.
+1AD84|No hay ninguna/impresora conectada.
+15975|No hay/impresora/conectada.
+1595B|No hay/impresora/conectada.
+17DD2|Imprimiendo en/Handy Printer!
+1AD34|Imprimiendo en/Handy Printer!
+158F7|Imprimiendo en/Handy Printer!
+158DA|Imprimiendo en/Handy Printer!
+17BFB|¿Qué consultas?
+17C0A|Elige del menú.
+17C25|¿Dónde lo/muestro?/TV/Impresora/Salir
+156D4|¿Dónde lo muestro?/TV/@30,22:Impresora/@70,22:Salir
+15705|¿Dónde lo muestro?/TV/@30,72:Impresora/@70,72:Salir
+1AC2F|¿Dónde mostrar?/TV/Impresora/Salir
+1F6C|Imprimiendo/un momento.
+1F83|Imprimiendo/un momento.
+1F9A|Impresión/cancelada.
+1FAF|Impresión/cancelada.
+1FC4|Impresión/terminada.
+1FDA|Impresión/terminada.
+2351|Imprimiendo/un momento.
+2368|Impresión/cancelada.
+237D|Impresión/terminada.
+2751|Imprimiendo/un momento.
+2768|Impresión/cancelada.
+277D|Impresión/terminada.
+279A|Impresión/cancelada.
+27AF|Impresión/cancelada.
+27C4|Impresión/terminada.
+27DA|Impresión/terminada.
+#
+# --- Confirmaciones de las escenas
+1230E|¿Correcto?/Sí/@40,7A:No
+15A8E|¿Correcto?/Sí/@B8,52:No
+15AAD|¿Correcto?/Sí/@B8,A2:No
+17E48|¿Correcto?/Sí/@40,A8:No
+1ADED|¿Correcto?/Sí/@A8,AA:No
+19B6D|Sí/@D8,A2:No
+#
+# --- Mano
+19B00|Junta y cruza/los dedos.
+19B16|El pulgar de encima/dice cuál domina.
+19B32|¿Mano hábil?
+19B51|@CA,72:Der./@CA,82:Izq.
+#
+# --- Omikuji y santuario
+AA29|♥Sacar omikuji/♥Rezar primero/y sacarlo
+AC78|♥Omikuji/♥Terminar
+AC07|Campana: {←} {→}/Palmadas: {↓}
+10FC0|♥Agitar/♥Salir
+1108F|Alto
+#
+# --- Mano: tabla resumen de respuestas (build.py la pasa a lista)
+1AB1F|@16,20:1 Vida/@16,30:2 Cabeza/@16,40:3 Corazón/@16,50:4 Destino/@16,60:5 Boda/@16,70:6 Global/@16,80:7 Otros/@16,A0:♥ OK
+# --- Mano: menú de resultados (antes en columnas verticales; build.py lo pasa a lista)
+1ABA5|@1C,0C:Dinero/@1C,17:Salud/@1C,22:Amor/@1C,2D:Suerte/@1C,38:Fin/@1C,43:Carácter/@1C,4E:Trabajo
+#
+# --- Sangre
+15639|@4A,86:¿Sois compatibles?
+# menús de los globos de la afinidad (Amor, Padres e hijos, Trabajo); cursores en la tabla de cada menú
+1554D|@58,60:♥No caer mal/@58,70:♥Al declararse/@58,80:♥Como cónyuge/@58,90:♥Afinidad/@58,A0:♥Volver
+1559B|@48,12:♥Educar al hijo/@48,22:♥Cómo motivarle/@48,32:♥Padres e hijos/@48,42:♥Volver
+155EC|@28,88:♥Ganar respeto/@90,88:♥Reñir novatos/@28,98:♥Tras un error/@90,98:♥Venderte bien/@28,A8:♥Guiar novatos/@90,A8:♥Volver
+#
+# --- Título: lo pone build.py (TITLE) letra a letra con la fuente propia del título,
+# que solo tiene © K O N A M I 1 9 8 P U S H C E Y T R: «PULSA ESPACIO» (cabe en la zona que borra el juego, 72-183) e «INICIO».

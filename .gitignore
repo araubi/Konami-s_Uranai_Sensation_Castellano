@@ -1,0 +1,10 @@
+*.dsk
+*.DSK
+*.ips
+!releases/*.ips
+font6.png
+__pycache__/
+src/*.inc
+src/*.bin
+src/*.sym
+src/*.lst
