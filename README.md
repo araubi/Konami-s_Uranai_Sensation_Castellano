@@ -29,16 +29,20 @@ En [`releases/`](releases/):
 
 | Fichero | Qué es |
 |---|---|
-| `UranaiSensation_ES_v1.0.ips` | Parche IPS. SHA-1 `e1cc3108ccaa705019e7860a3c0af551a3cc6beb`. |
+| `UranaiSensation_ES_v1.0.ips` | Parche IPS para el volcado principal. SHA-1 `e1cc3108ccaa705019e7860a3c0af551a3cc6beb`. |
+| `UranaiSensation_ES_v1.0alt.ips` | Parche IPS para el volcado alternativo «(ja)». SHA-1 `891517e7b3f4682cde2bbb84ce31843e42e00d76`. |
 
-El parche **solo** vale para esta imagen:
+Cada parche **solo** vale para su imagen, y los dos dan exactamente el mismo disco traducido:
 
-| Disco | Tamaño | SHA-1 |
-|---|---|---|
-| `Konami's Uranai Sensation. Fortune Teller (1988)(Konami)(JP).dsk` | 720 KB | `f9499b9797c3bfe57623d5f82b578eb04787b364` |
-| Resultado tras aplicar el parche | 720 KB | `fb4bbcd1f567716e3a9cab811f64e19692b12f79` |
+| Disco | Parche | Tamaño | SHA-1 |
+|---|---|---|---|
+| `Konami's Uranai Sensation. Fortune Teller (1988)(Konami)(JP).dsk` | `v1.0` | 720 KB | `f9499b9797c3bfe57623d5f82b578eb04787b364` |
+| `Uranai Sensation. Fortune Teller (1988)(Konami)(ja).dsk` | `v1.0alt` | 720 KB | `ed476ec5e77b39a2d9ba4df3b5eca50938131a48` |
+| Resultado tras aplicar cualquiera de los dos | | 720 KB | `fb4bbcd1f567716e3a9cab811f64e19692b12f79` |
 
-Para aplicarlo sirve cualquier programa de parches IPS, como [Floating IPS](https://www.smwcentral.net/?p=section&a=details&id=11474) (`flips --apply UranaiSensation_ES_v1.0.ips original.dsk traducido.dsk`) o Lunar IPS. Comprueba el SHA-1 del disco antes y después: otros volcados (los [a], [a2] y [a3]) no valen.
+Los dos volcados solo se diferencian en los dos sectores de la lista de personas (59Eh-59Fh): el principal trae una ficha de muestra y el «(ja)» los trae vacíos, recién formateados (todo E5h). El parche alternativo escribe además esos dos sectores con la lista vacía de la traducción.
+
+Para aplicarlo sirve cualquier programa de parches IPS, como [Floating IPS](https://www.smwcentral.net/?p=section&a=details&id=11474) (`flips --apply UranaiSensation_ES_v1.0.ips original.dsk traducido.dsk`) o Lunar IPS. Comprueba el SHA-1 del disco antes y después: otros volcados no valen.
 
 Se ha probado en openMSX con el Sony HB-F900 (MSX2 con 128 KB), pasando por todas las opciones.
 
@@ -60,7 +64,11 @@ Hacen falta **Python 3** y **sjasmplus** en el PATH (se comprobó con sjasmplus 
 python3 build.py
 # 3. Crea el parche: da el mismo IPS que el de releases/
 python3 tools/ips.py
+# Parche para el volcado «(ja)»: copia ese disco como orig_alt.dsk (o usa URANAI_ALT)
+python3 tools/ips.py --alt
 ```
+
+El disco traducido se monta siempre desde el volcado principal. El parche alternativo lleva de su volcado al mismo disco.
 
 ## Qué hay en el repositorio
 
@@ -73,7 +81,7 @@ python3 tools/ips.py
 | `build.py` | Monta el disco a partir de tu `orig.dsk`. |
 | `docs/` | Documentación técnica y lecciones. |
 | `images/` | Capturas. |
-| `releases/` | El parche IPS. |
+| `releases/` | Los parches IPS. |
 
 ## Documentación
 
